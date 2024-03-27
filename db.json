@@ -635,23 +635,14 @@
     "rating": 4.5
   }
 ],
-"men":[
+"men": [
   {
     "id": 1,
     "category": "T-Shirts",
     "name": "Classic Cotton T-Shirt",
     "price": 19.99,
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Black",
-      "White",
-      "Grey"
-    ],
+    "size": ["S", "M", "L", "XL"],
+    "color": ["Black", "White", "Grey"],
     "imageURL": "https://images.lvrcdn.com/Big/c/2023/09/23/aa6e328c-f1a8-4fc4-989a-73526bcd2a13/6b788638-9fbc-4ea5-83c3-b42210a3102620230925120242.JPG",
     "description": "A classic cotton t-shirt perfect for everyday wear.",
     "stock": 100,
@@ -662,17 +653,8 @@
     "category": "Jeans",
     "name": "Slim Fit Denim",
     "price": 59.99,
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Dark Blue",
-      "Light Blue",
-      "Black"
-    ],
+    "size": ["S", "M", "L", "XL"],
+    "color": ["Dark Blue", "Light Blue", "Black"],
     "imageURL": "https://cdn.media.amplience.net/i/truworths/prod3097171_1?fmt=auto&$pdp-main-mobile$",
     "description": "High-quality denim jeans with a slim fit design.",
     "stock": 80,
@@ -680,534 +662,100 @@
   },
   {
     "id": 3,
-    "category": "Jackets",
-    "name": "Leather Biker Jacket",
-    "price": 120,
-    "size": [
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "color": [
-      "Black",
-      "Brown"
-    ],
-    "imageURL": "https://www.voganow.com/cdn/shop/files/BBGJ-1121-01-SL_1.jpg?v=1700306888",
-    "description": "Authentic leather biker jacket for the ultimate road warrior.",
-    "stock": 50,
-    "rating": 4.8
+    "category": "Shoes",
+    "name": "Casual Sneakers",
+    "price": 39.99,
+    "size": ["US 6", "US 7", "US 8", "US 9", "US 10", "US 11"],
+    "color": ["Black", "White", "Red"],
+    "imageURL": "https://www.outfittrends.com/wp-content/uploads/2016/09/shoes-to-wear-with-jeans-men.jpg",
+    "description": "Comfortable sneakers suitable for casual outings.",
+    "stock": 120,
+    "rating": 4.2
   },
   {
     "id": 4,
-    "category": "Sweaters",
-    "name": "Crew Neck Wool Sweater",
-    "price": 45.99,
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Navy",
-      "Grey",
-      "Red"
-    ],
-    "imageURL": "https://assets.burberry.com/is/image/Burberryltd/5242AAD7-EF71-4864-A289-7B69B7862296?$BBY_V3_SL_1$&wid=1501&hei=1500",
-    "description": "A warm and cozy wool sweater for chilly evenings.",
-    "stock": 70,
-    "rating": 4.6
+    "category": "Watches",
+    "name": "Chronograph Watch",
+    "price": 129.99,
+    "size": ["One Size"],
+    "color": ["Black", "Silver", "Gold"],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0030/1921/2861/products/product-image-1199121209_800x.jpg",
+    "description": "A stylish chronograph watch with multiple dials and a leather strap.",
+    "stock": 50,
+    "rating": 4.8
   },
   {
     "id": 5,
-    "category": "Shorts",
-    "name": "Cargo Shorts",
-    "price": 29.99,
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Khaki",
-      "Olive",
-      "Black"
-    ],
-    "imageURL": "https://contents.mediadecathlon.com/p1823349/a488375539f5b5fe6eeb8789a8836e45/p1823349.jpg",
-    "description": "Durable cargo shorts with plenty of pocket space.",
-    "stock": 85,
-    "rating": 4.3
-  },
-  {
-    "id": 6,
-    "category": "Footwear",
-    "name": "Classic Leather Boots",
-    "price": 89.99,
-    "size": [
-      "7",
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "color": [
-      "Black",
-      "Brown"
-    ],
-    "imageURL": "https://tungstenshoes.in/cdn/shop/products/4_069b670e-e036-4656-9c13-328498061c07.png?v=1705037822",
-    "description": "Sturdy and stylish leather boots for any occasion.",
-    "stock": 60,
-    "rating": 4.4
-  },
-  {
-    "id": 7,
-    "category": "Underwear",
-    "name": "Boxer Briefs Pack",
-    "price": 34.99,
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Black",
-      "Grey",
-      "White"
-    ],
-    "imageURL": "https://5.imimg.com/data5/SELLER/Default/2022/9/IW/CQ/GI/240834/hanes-mens-3-pack-boxer-briefs-500x500.jpeg",
-    "description": "Comfortable and breathable boxer briefs in a pack of three.",
-    "stock": 200,
-    "rating": 4.5
-  },
-  {
-    "id": 9,
-    "category": "Jeans",
-    "name": "Slim Fit Denim Jeans",
-    "price": 39.99,
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Light Blue",
-      "Dark Blue",
-      "Black"
-    ],
-    "imageURL": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/13249736/2022/8/26/51ca51a2-3e50-4427-bd05-9b54f6ac1de51661504890610-Roadster-Men-Blue-Skinny-Fit-Light-Fade-Stretchable-Jeans-80-1.jpg",
-    "description": "Stylish slim fit jeans for a modern look.",
-    "stock": 90,
-    "rating": 4.4
-  },
-  {
-    "id": 10,
-    "category": "Hoodies",
-    "name": "Pullover Hoodie",
-    "price": 29.99,
-    "size": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "color": [
-      "Grey",
-      "Black",
-      "Maroon"
-    ],
-    "imageURL": "https://images-cdn.ubuy.co.in/653a53881e09ab09cf3a8a1f-gurunvani-contrast-color-pullover-hoodie.jpg",
-    "description": "Comfortable pullover hoodie, perfect for casual days.",
-    "stock": 85,
-    "rating": 4.6
-  },
-  {
-    "id": 11,
-    "category": "Jackets",
-    "name": "Waterproof Outdoor Jacket",
-    "price": 59.99,
-    "size": [
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "color": [
-      "Navy",
-      "Black",
-      "Olive"
-    ],
-    "imageURL": "https://images-cdn.ubuy.co.in/633b9f5480782759d542a601-winter-jackets-for-men-waterproof-jacket.jpg",
-    "description": "Durable, waterproof jacket designed for outdoor adventures.",
-    "stock": 75,
-    "rating": 4.7
-  },
-  {
-    "id": 12,
-    "category": "Sweatshirts",
-    "name": "Classic Pullover Hoodie",
-    "price": 39.99,
-    "size": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Gray",
-      "Black",
-      "Blue"
-    ],
-    "imageURL": "https://eshop.techx.org.in/wp-content/uploads/2023/07/800-7.jpg",
-    "description": "Comfortable, versatile hoodie perfect for casual wear or light workouts.",
-    "stock": 60,
-    "rating": 4.5
-  },
-  {
-    "id": 13,
-    "category": "Shirts",
-    "name": "Cotton Casual Shirt",
-    "price": 29.99,
-    "size": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "White",
-      "Navy",
-      "Khaki"
-    ],
-    "imageURL": "https://5.imimg.com/data5/SELLER/Default/2021/6/HD/SN/ZJ/86091887/mens-cotton-casual-shirts.jpg",
-    "description": "Breathable cotton shirt, ideal for both work and weekend outings.",
-    "stock": 80,
-    "rating": 4.6
-  },
-  {
-    "id": 14,
-    "category": "Formal Shirts",
-    "name": "Slim Fit Dress Shirt",
-    "price": 49.99,
-    "size": [
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "color": [
-      "Black",
-      "White",
-      "Light Blue"
-    ],
-    "imageURL": "https://rukminim2.flixcart.com/image/550/650/xif0q/shirt/x/m/n/40-men-regular-slim-fit-solid-button-down-collar-formal-shirt-original-imagf4mn9zg7qrmf-bb.jpeg?q=90&crop=false",
-    "description": "Elegant slim fit shirt designed for formal occasions and business meetings.",
-    "stock": 50,
-    "rating": 4.8
-  },
-  {
-    "id": 15,
-    "category": "Jeans",
-    "name": "Classic Straight Jeans",
-    "price": 59.99,
-    "size": [
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "color": [
-      "Dark Blue",
-      "Light Blue",
-      "Black"
-    ],
-    "imageURL": "https://liftkaro.in/wp-content/uploads/2024/01/Stone-wash-01-1.webp",
-    "description": "Durable and stylish jeans suitable for everyday wear.",
-    "stock": 70,
-    "rating": 4.5
-  },
-  {
-    "id": 16,
-    "category": "Trousers",
-    "name": "Chino Trousers",
-    "price": 49.99,
-    "size": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Beige",
-      "Navy",
-      "Gray"
-    ],
-    "imageURL": "https://placeholder.com/images/menswear/trousers1.jpg",
-    "description": "Versatile chino trousers, perfect for casual or smart-casual looks.",
-    "stock": 65,
-    "rating": 4.4
-  },
-  {
-    "id": 17,
-    "category": "Shorts",
-    "name": "Casual Cargo Shorts",
-    "price": 34.99,
-    "size": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Olive",
-      "Camel",
-      "Black"
-    ],
-    "imageURL": "https://images-cdn.ubuy.co.in/634d03f3ecb4942e2707495a-nzwiluns-cargo-shorts-for-men-outdoor.jpg",
-    "description": "Relaxed fit cargo shorts with multiple pockets for outdoor activities.",
-    "stock": 55,
-    "rating": 4.3
-  },
-  {
-    "id": 18,
-    "category": "Outerwear",
-    "name": "Lightweight Bomber Jacket",
-    "price": 69.99,
-    "size": [
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "color": [
-      "Black",
-      "Olive",
-      "Navy"
-    ],
-    "imageURL": "https://m.media-amazon.com/images/I/81Tr+XYY91L.jpg",
-    "description": "A trendy and versatile bomber jacket, great for layering in cooler weather.",
-    "stock": 45,
-    "rating": 4.7
-  },
-  {
-    "id": 19,
-    "category": "Suits",
-    "name": "Modern Fit Suit",
-    "price": 199.99,
-    "size": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Navy",
-      "Gray",
-      "Black"
-    ],
-    "imageURL": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2324184/2017/12/28/11514459523739-Wills-Lifestyle-Grey-Self-Design-Slim-Fit-Single-Breasted-Formal-Suit-1221514459523537-1.jpg",
-    "description": "Sleek and modern suit for professional settings or special occasions.",
-    "stock": 40,
-    "rating": 4.9
-  },
-  {
-    "id": 20,
-    "category": "Underwear",
-    "name": "Boxer Briefs Pack",
-    "price": 24.99,
-    "size": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "color": [
-      "Black",
-      "Gray",
-      "White"
-    ],
-    "imageURL": "https://imagescdn.thecollective.in/img/app/product/9/971580-12840248.jpg",
-    "description": "Comfortable, breathable boxer briefs in a convenient 3-pack.",
-    "stock": 100,
-    "rating": 4.2
-  },
-  {
-    "id": 21,
-    "category": "Accessories",
-    "name": "Leather Belt",
-    "price": 19.99,
-    "size": [
-      "One Size"
-    ],
-    "color": [
-      "Brown",
-      "Black"
-    ],
-    "imageURL": "https://www.artisansoul.in/cdn/shop/products/2304.JPG_1_2000x.jpg?v=1644908692",
-    "description": "Classic leather belt, an essential accessory for any wardrobe.",
-    "stock": 85,
-    "rating": 4.6
-  },
-  {
-    "id": 22,
-    "category": "Sweaters",
-    "name": "Crew Neck Wool Sweater",
-    "price": 49.99,
-    "size": [
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "color": [
-      "Burgundy",
-      "Navy",
-      "Gray"
-    ],
-    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20230904/M9zS/64f6083eafa4cf41f5a3aa79/-473Wx593H-410392682-250-MODEL.jpg",
-    "description": "Warm and cozy wool sweater perfect for chilly days.",
-    "stock": 50,
-    "rating": 4.5
-  },
-  {
-    "id": 23,
-    "category": "Boots",
-    "name": "Leather Ankle Boots",
-    "price": 89.99,
-    "size": [
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "color": [
-      "Black",
-      "Brown"
-    ],
-    "imageURL": "https://i.pinimg.com/474x/2c/23/e3/2c23e3b33028a736b3177ca8c0201d83.jpg",
-    "description": "Durable leather boots, ideal for both outdoor adventures and casual outings.",
-    "stock": 40,
-    "rating": 4.7
-  },
-  {
-    "id": 24,
-    "category": "Hats",
-    "name": "Baseball Cap",
-    "price": 15.99,
-    "size": [
-      "One Size"
-    ],
-    "color": [
-      "Black",
-      "White",
-      "Blue"
-    ],
-    "imageURL": "https://placeholder.com/images/menswear/hat1.jpg",
-    "description": "Classic baseball cap with adjustable strap for a perfect fit.",
-    "stock": 100,
-    "rating": 4.3
-  },
-  {
-    "id": 25,
-    "category": "Watches",
-    "name": "Stainless Steel Watch",
-    "price": 199.99,
-    "size": [
-      "One Size"
-    ],
-    "color": [
-      "Silver",
-      "Black"
-    ],
-    "imageURL": "https://m.media-amazon.com/images/I/815lPWcIyrL.AC_UY1000.jpg",
-    "description": "Elegant stainless steel watch with a minimalist design.",
-    "stock": 30,
-    "rating": 4.8
-  },
-  {
-    "id": 26,
-    "category": "Gloves",
-    "name": "Leather Gloves",
-    "price": 29.99,
-    "size": [
-      "M",
-      "L"
-    ],
-    "color": [
-      "Black",
-      "Brown"
-    ],
-    "imageURL": "https://www.jiomart.com/images/product/original/rvijms8cse/sellnship-black-leather-gloves-for-winter-warm-anti-slip-with-protective-hand-lining-free-size-product-images-orvijms8cse-p590832693-1-202110241345.jpg?im=Resize=(1000,1000)",
-    "description": "Premium leather gloves for warmth and style during the winter season.",
-    "stock": 55,
-    "rating": 4.4
-  },
-  {
-    "id": 27,
-    "category": "Bags",
-    "name": "Leather Messenger Bag",
-    "price": 119.99,
-    "size": [
-      "One Size"
-    ],
-    "color": [
-      "Brown",
-      "Black"
-    ],
-    "imageURL": "https://m.media-amazon.com/images/I/81lapYdx4lL.jpg",
-    "description": "Stylish and functional leather messenger bag for the modern man.",
-    "stock": 25,
-    "rating": 4.6
-  },
-  {
-    "id": 28,
-    "category": "Belts",
-    "name": "Casual Webbing Belt",
-    "price": 14.99,
-    "size": [
-      "One Size"
-    ],
-    "color": [
-      "Navy",
-      "Olive",
-      "Black"
-    ],
-    "imageURL": "https://placeholder.com/images/menswear/belt2.jpg",
-    "description": "Versatile and durable webbing belt with a classic buckle, perfect for casual outfits.",
-    "stock": 90,
-    "rating": 4.2
-  },
-  {
-    "id": 29,
-    "category": "Sunglasses",
-    "name": "Polarized Aviator Sunglasses",
-    "price": 49.99,
-    "size": [
-      "One Size"
-    ],
-    "color": [
-      "Gold Frame",
-      "Black Frame"
-    ],
-    "imageURL": "https://m.media-amazon.com/images/I/91VqGz-isPL.AC_UY1100.jpg",
-    "description": "Classic aviator sunglasses with polarized lenses for superior sun protection.",
-    "stock": 75,
-    "rating": 4.7
-  },
-  {
-    "id": 30,
     "category": "Perfumes",
     "name": "Eau de Toilette",
     "price": 59.99,
-    "size": [
-      "50ml"
-    ],
-    "color": [
-      "Clear"
-    ],
+    "size": ["50ml"],
+    "color": ["Clear"],
     "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bottles_of_Eau_de_Toilette.jpg",
     "description": "A refreshing and sophisticated scent for the modern man.",
     "stock": 60,
     "rating": 4.5
-  }
+  },
+  {
+    "id": 6,
+    "category": "Shirts",
+    "name": "Casual Button-Up Shirt",
+    "price": 29.99,
+    "size": ["S", "M", "L", "XL"],
+    "color": ["Blue", "White", "Grey"],
+    "imageURL": "https://image.shutterstock.com/image-photo/man-wearing-formal-shirt-white-260nw-374843065.jpg",
+    "description": "A versatile button-up shirt suitable for various occasions.",
+    "stock": 90,
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "category": "Sweaters",
+    "name": "Knit Pullover Sweater",
+    "price": 49.99,
+    "size": ["S", "M", "L"],
+    "color": ["Navy", "Beige", "Grey"],
+    "imageURL": "https://cdn.shopify.com/s/files/1/0969/9128/products/PT-107-C6-1937_1024x1024.jpg?v=1605075025",
+    "description": "A cozy knit sweater perfect for chilly days.",
+    "stock": 70,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "category": "Shorts",
+    "name": "Cargo Shorts",
+    "price": 34.99,
+    "size": ["S", "M", "L", "XL"],
+    "color": ["Khaki", "Black", "Grey"],
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnL9-e5VQ2Z4aItjJ6z2VAFxgvYBfsLpxcEw&usqp=CAU",
+    "description": "Stylish cargo shorts with multiple pockets for convenience.",
+    "stock": 110,
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "category": "Hats",
+    "name": "Baseball Cap",
+    "price": 19.99,
+    "size": ["One Size"],
+    "color": ["Navy", "Black", "Red"],
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61XmVzwe2eL._AC_UL1001_.jpg",
+    "description": "A classic baseball cap with an adjustable strap for a comfortable fit.",
+    "stock": 80,
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "category": "Socks",
+    "name": "Athletic Crew Socks",
+    "price": 9.99,
+    "size": ["One Size"],
+    "color": ["Black", "White", "Grey"],
+    "imageURL": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/awpqa1xvqhzxwf25em3i/crew-socks-2-pairs-XMvlLW.jpg",
+    "description": "Comfortable athletic crew socks suitable for sports activities.",
+    "stock": 150,
+    "rating": 4.0
+  },
 ],
   "women":[]
 }
