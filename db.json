@@ -284,13 +284,13 @@
     },
     {
       "id": 24,
-      "category": "Hats",
-      "name": "Baseball Cap",
+      "category": "T-Shirt",
+      "name": "Oversized T-Shirt",
       "price": 15.99,
       "size": ["One Size"],
       "color": ["Black", "White", "Blue"],
-      "imageURL": "https://placeholder.com/images/menswear/hat1.jpg",
-      "description": "Classic baseball cap with adjustable strap for a perfect fit.",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MST2101-01-M28.jpg?v=1689430427",
+      "description": "Classic Oversized T-Shirt  for a perfect look.",
       "stock": 100,
       "rating": 4.3
     },
@@ -337,7 +337,7 @@
       "price": 14.99,
       "size": ["One Size"],
       "color": ["Navy", "Olive", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/belt2.jpg",
+      "imageURL": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw543b1e8d/images/large/01_68912997_2.jpg?sw=470&sh=602&sm=cut",
       "description": "Versatile and durable webbing belt with a classic buckle, perfect for casual outfits.",
       "stock": 90,
       "rating": 4.2
@@ -357,7 +357,7 @@
     {
       "id": 30,
       "category": "Perfumes",
-      "name": "Eau de Toilette",
+      "name": "Eau de perfume",
       "price": 59.99,
       "size": ["50ml"],
       "color": ["Clear"],
@@ -374,7 +374,7 @@
         "price": 19.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Black", "White", "Grey"],
-        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MST2254-01-M37.jpg?v=1707377907&width=900",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MST2215-09-M42.jpg?v=1704798873&width=900",
         "description": "A classic cotton t-shirt perfect for everyday wear.",
         "stock": 100,
         "rating": 4.5
@@ -386,7 +386,7 @@
         "price": 34.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Blue", "White", "Pink"],
-        "imageURL": "https://www.example.com/images/oxford-shirt.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MST2226-01-M18.jpg?v=1709553533&width=900",
         "description": "A timeless oxford button-down shirt suitable for both casual and formal occasions.",
         "stock": 80,
         "rating": 4.8
@@ -398,7 +398,7 @@
         "price": 39.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Khaki", "Navy", "Black"],
-        "imageURL": "https://www.example.com/images/slim-fit-chinos.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MSO4542-01-3219.jpg?v=1708069157&width=900",
         "description": "A pair of slim fit chinos crafted from comfortable stretch cotton.",
         "stock": 60,
         "rating": 4.6
@@ -410,7 +410,7 @@
         "price": 49.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Charcoal", "Navy", "Black"],
-        "imageURL": "https://www.example.com/images/dress-trousers.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MTP0012-02-M51.jpg?v=1698131816&width=900",
         "description": "A pair of classic dress trousers tailored for a polished appearance.",
         "stock": 70,
         "rating": 4.7
@@ -422,7 +422,7 @@
         "price": 24.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Black", "White", "Red"],
-        "imageURL": "https://www.example.com/images/graphic-tee.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/products/Augusto_1stMarch2323_250x.jpg?v=1679983898",
         "description": "A stylish graphic print t-shirt to add flair to your wardrobe.",
         "stock": 75,
         "rating": 4.2
@@ -434,7 +434,7 @@
         "price": 29.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Red/Black", "Blue/White", "Green/Black"],
-        "imageURL": "https://www.example.com/images/flannel-shirt.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MSS2475-01-M27.jpg?v=1702621247&width=900",
         "description": "A cozy flannel shirt featuring a classic plaid pattern.",
         "stock": 90,
         "rating": 4.5
@@ -446,7 +446,7 @@
         "price": 45.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Olive", "Black", "Navy"],
-        "imageURL": "https://www.example.com/images/cargo-joggers.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSO4521-01-3246.jpg?v=1697031958",
         "description": "A pair of comfortable cargo joggers with multiple pockets for added utility.",
         "stock": 55,
         "rating": 4.3
@@ -458,7 +458,7 @@
         "price": 54.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Grey", "Navy", "Charcoal"],
-        "imageURL": "https://www.example.com/images/slim-fit-dress-trousers.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSR5050-04-3212.jpg?v=1700654869",
         "description": "A pair of slim fit dress trousers for a modern and tailored look.",
         "stock": 65,
         "rating": 4.8
@@ -470,7 +470,7 @@
         "price": 21.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Grey", "Black"],
-        "imageURL": "https://www.example.com/images/pocket-tee.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MST2236-02-M30_250x.jpg?v=1706793341",
         "description": "A versatile pocket tee suitable for various occasions.",
         "stock": 90,
         "rating": 4.3
@@ -482,7 +482,7 @@
         "price": 39.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Indigo", "Black"],
-        "imageURL": "https://www.example.com/images/denim-shirt.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSS1926-01-M0623.jpg?v=1698602922&width=800",
         "description": "A classic denim button-up shirt for a rugged yet stylish look.",
         "stock": 75,
         "rating": 4.4
@@ -494,7 +494,7 @@
         "price": 49.99,
         "size": ["28Wx30L", "30Wx32L", "32Wx32L", "34Wx34L"],
         "color": ["Black", "Dark Blue"],
-        "imageURL": "https://www.example.com/images/skinny-jeans.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSD3664-02-321.jpg?v=1710584020&width=800",
         "description": "A pair of trendy skinny jeans crafted from stretch denim for a flattering fit.",
         "stock": 80,
         "rating": 4.7
@@ -506,7 +506,7 @@
         "price": 42.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Brown", "Navy", "Burgundy"],
-        "imageURL": "https://www.example.com/images/corduroy-pants.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/IMG_6418.jpg?v=1694259651",
         "description": "A pair of stylish corduroy pants suitable for both casual and semi-formal occasions.",
         "stock": 70,
         "rating": 4.6
@@ -518,7 +518,7 @@
         "price": 29.99,
         "size": ["S", "M", "L"],
         "color": ["Navy", "White", "Charcoal"],
-        "imageURL": "https://www.example.com/images/long-sleeve-henley.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/products/Snitch_9thNov21_7631.jpg?v=1637663295&width=900",
         "description": "A classic long sleeve henley shirt for a timeless look.",
         "stock": 60,
         "rating": 4.6
@@ -530,7 +530,7 @@
         "price": 34.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Blue", "Light Blue"],
-        "imageURL": "https://www.example.com/images/chambray-shirt.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSS2428-06-M50.jpg?v=1699627318&width=800",
         "description": "A versatile chambray shirt suitable for various occasions.",
         "stock": 85,
         "rating": 4.5
@@ -542,7 +542,7 @@
         "price": 38.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Black", "Olive", "Khaki"],
-        "imageURL": "https://www.example.com/images/cargo-pants.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/BLACKJEANS34.jpg?v=1696576285&width=800",
         "description": "A pair of cargo pants featuring multiple pockets for added utility.",
         "stock": 75,
         "rating": 4.3
@@ -554,7 +554,7 @@
         "price": 47.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Black", "Navy"],
-        "imageURL": "https://www.example.com/images/wide-leg-trousers.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSR5043-01-3214.jpg?v=1700222542",
         "description": "A pair of wide leg trousers for a sophisticated and elegant look.",
         "stock": 65,
         "rating": 4.4
@@ -566,7 +566,7 @@
         "price": 26.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Black", "White", "Red"],
-        "imageURL": "https://www.example.com/images/retro-logo-tee.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MST2235-03-M43.jpg?v=1704366513&width=900",
         "description": "A vintage-inspired tee featuring a retro logo design.",
         "stock": 80,
         "rating": 4.8
@@ -578,7 +578,7 @@
         "price": 59.99,
         "size": ["S", "M", "L", "XL"],
         "color": ["Black", "White", "Navy"],
-        "imageURL": "https://www.example.com/images/silk-shirt.jpg",
+        "imageURL": "https://www.snitch.co.in/cdn/shop/files/4MSS2304-02-M109.jpg?v=1705038567&width=900",
         "description": "A luxurious silk button-up shirt for a sophisticated and refined look.",
         "stock": 70,
         "rating": 4.9
@@ -590,7 +590,7 @@
         "price": 44.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Charcoal", "Navy", "Black"],
-        "imageURL": "https://www.example.com/images/pleated-dress-pants.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSR5044-04-3228.jpg?v=1697116977",
         "description": "A pair of pleated dress pants for a classic and polished look.",
         "stock": 55,
         "rating": 4.7
@@ -602,7 +602,7 @@
         "price": 69.99,
         "size": ["30Wx30L", "32Wx32L", "34Wx32L", "36Wx34L"],
         "color": ["Black", "Navy"],
-        "imageURL": "https://www.example.com/images/pinstripe-suit-trousers.jpg",
+        "imageURL": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSR5051-01-32-4.jpg?v=1700141158",
         "description": "A pair of pinstripe suit trousers for a sharp and professional look.",
         "stock": 60,
         "rating": 4.8
@@ -966,7 +966,7 @@
       "price": 39.99,
       "size": ["S", "M", "L"],
       "color": ["Lavender", "Ivory", "Blush"],
-      "imageURL": "https://placeholder.com/images/womenswear/nightwear1.jpg",
+      "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/h1f/hc2/31056455401502/A23LGSATHSCT03_WHITE.jpg_230Wx334H",
       "description": "Experience ultimate comfort at night with this soft, silky nightgown.",
       "stock": 65,
       "rating": 4.6
@@ -978,7 +978,7 @@
       "price": 89.99,
       "size": ["One Size"],
       "color": ["Tan", "Black", "White"],
-      "imageURL": "https://michaelkors.scene7.com/is/image/MichaelKors/35H0GU5T9T-7278_1?wid=388&hei=523&op_sharpen=1&resMode=sharp2&qlt=90",
+      "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/hfd/h5d/30862868774942/A23JB865476_BROWN.jpg_230Wx334H",
       "description": "Versatile and stylish leather tote bag, perfect for everyday use.",
       "stock": 55,
       "rating": 4.8
@@ -990,7 +990,7 @@
         "price": 49.99,
         "size": ["S", "M", "L"],
         "color": ["Blue", "Pink", "Yellow"],
-        "imageURL": "https://www.example.com/images/floral-maxi-dress.jpg",
+        "imageURL": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw772bf25b/images/large/21_35000330003_1.jpg?sw=470&sh=602&sm=cut",
         "description": "A beautiful floral print maxi dress perfect for summer occasions.",
         "stock": 60,
         "rating": 4.7
@@ -1014,7 +1014,7 @@
         "price": 54.99,
         "size": ["S", "M", "L"],
         "color": ["White", "Black", "Navy"],
-        "imageURL": "https://www.example.com/images/silk-blouse.jpg",
+        "imageURL": "https://img.faballey.com/images/Product/TOP06487Z/d3.jpg",
         "description": "A luxurious silk blouse perfect for office or evening wear.",
         "stock": 45,
         "rating": 4.8
@@ -1026,7 +1026,7 @@
         "price": 34.99,
         "size": ["S", "M", "L"],
         "color": ["Black", "Red", "Navy"],
-        "imageURL": "https://www.example.com/images/pleated-midi-skirt.jpg",
+        "imageURL": "https://img.faballey.com/images/Product/SKT00758Z/d3.jpg",
         "description": "A stylish pleated midi skirt suitable for both casual and formal occasions.",
         "stock": 70,
         "rating": 4.6
@@ -1038,7 +1038,7 @@
         "price": 69.99,
         "size": ["S", "M", "L"],
         "color": ["Black", "Brown"],
-        "imageURL": "https://www.example.com/images/faux-leather-jacket.jpg",
+        "imageURL": "https://img.faballey.com/images/Product/JAC00610Z/d3.jpg",
         "description": "A trendy faux leather moto jacket for a chic and edgy look.",
         "stock": 55,
         "rating": 4.4
@@ -1050,7 +1050,7 @@
         "price": 42.99,
         "size": ["S", "M", "L"],
         "color": ["Navy", "Grey", "Beige"],
-        "imageURL": "https://www.example.com/images/high-waisted-wide-leg-pants.jpg",
+        "imageURL": "https://img.faballey.com/images/Product/BOT00749Z/d3.jpg",
         "description": "A pair of high waisted wide leg pants for a sophisticated and elegant look.",
         "stock": 65,
         "rating": 4.7
@@ -1062,7 +1062,7 @@
         "price": 29.99,
         "size": ["S", "M", "L"],
         "color": ["White", "Black", "Red"],
-        "imageURL": "https://www.example.com/images/off-shoulder-crop-top.jpg",
+        "imageURL": "https://img.faballey.com/images/Product/TOP06631Z/d3.jpg",
         "description": "A trendy off shoulder crop top perfect for summer outings.",
         "stock": 80,
         "rating": 4.3
@@ -1074,7 +1074,7 @@
         "price": 49.99,
         "size": ["24", "26", "28", "30"],
         "color": ["Blue", "Black", "Grey"],
-        "imageURL": "https://www.example.com/images/skinny-jeans-women.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/he2/h8d/30779374600222/A23KRSLFC379_DARK_BLUE.jpg_230Wx334H",
         "description": "A pair of classic skinny jeans for a versatile wardrobe staple.",
         "stock": 90,
         "rating": 4.5
@@ -1086,7 +1086,7 @@
         "price": 59.99,
         "size": ["S", "M", "L"],
         "color": ["Cream", "Grey", "Beige"],
-        "imageURL": "https://www.example.com/images/chunky-knit-sweater.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/h8a/he9/28835698442270/A22ZINKSW00184_TAN.jpg_136Wx204H",
         "description": "A cozy chunky knit sweater perfect for chilly days.",
         "stock": 40,
         "rating": 4.8
@@ -1098,7 +1098,7 @@
         "price": 79.99,
         "size": ["S", "M", "L"],
         "color": ["Black", "Navy", "Grey"],
-        "imageURL": "https://www.example.com/images/tailored-blazer.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/h64/hcd/27227044020254/S22VHURGPJ66634_RUST.jpg_230Wx334H",
         "description": "A tailored blazer for a polished and professional look.",
         "stock": 60,
         "rating": 4.6
@@ -1110,7 +1110,7 @@
         "price": 64.99,
         "size": ["S", "M", "L"],
         "color": ["Black", "Navy", "Burgundy"],
-        "imageURL": "https://www.example.com/images/wide-leg-jumpsuit.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/h61/he5/31804050374686/MCSS20D0437263_LAVENDER.jpg_230Wx334H",
         "description": "A stylish wide leg jumpsuit for a chic and effortless ensemble.",
         "stock": 50,
         "rating": 4.7
@@ -1122,7 +1122,7 @@
         "price": 34.99,
         "size": ["S", "M", "L"],
         "color": ["White", "Black", "Red"],
-        "imageURL": "https://www.example.com/images/wrap-front-blouse.jpg",
+        "imageURL": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw384da425/images/large/21_35000040012_1.jpg?sw=470&sh=602&sm=cut",
         "description": "A sophisticated wrap front blouse perfect for office or evening wear.",
         "stock": 70,
         "rating": 4.4
@@ -1134,7 +1134,7 @@
         "price": 49.99,
         "size": ["S", "M", "L"],
         "color": ["Navy", "Beige", "Black"],
-        "imageURL": "https://www.example.com/images/cropped-wide-leg-pants.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/h46/h47/29685142159390/S23507DMOM3_LILAC.jpg_230Wx334H",
         "description": "A pair of cropped wide leg pants for a trendy and versatile look.",
         "stock": 75,
         "rating": 4.5
@@ -1146,7 +1146,7 @@
         "price": 44.99,
         "size": ["S", "M", "L"],
         "color": ["Navy", "Red", "Black"],
-        "imageURL": "https://www.example.com/images/wrap-dress.jpg",
+        "imageURL": "https://www.accessorize.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-accessorize-master-catalog/default/dw77c79b1a/images/large/21_35000800017_1.jpg?sw=470&sh=602&sm=cut",
         "description": "A flattering wrap dress suitable for various occasions.",
         "stock": 65,
         "rating": 4.6
@@ -1158,7 +1158,7 @@
         "price": 54.99,
         "size": ["S", "M", "L"],
         "color": ["Olive", "Navy", "Black"],
-        "imageURL": "https://www.example.com/images/utility-jacket.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/hd4/h34/29624217337886/ZKP1071SG995_BLACK.jpg_230Wx334H",
         "description": "A versatile utility jacket with multiple pockets for added functionality.",
         "stock": 55,
         "rating": 4.7
@@ -1170,7 +1170,7 @@
         "price": 39.99,
         "size": ["S", "M", "L"],
         "color": ["White", "Black", "Pink"],
-        "imageURL": "https://www.example.com/images/ruffle-sleeve-blouse.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/h44/h0a/27958988144670/S22SERALA4035BL_BLUE.jpg_230Wx334H",
         "description": "A feminine ruffle sleeve blouse perfect for adding a touch of romance to your look.",
         "stock": 80,
         "rating": 4.8
@@ -1182,7 +1182,7 @@
         "price": 54.99,
         "size": ["24", "26", "28", "30"],
         "color": ["Blue", "Black", "Dark Wash"],
-        "imageURL": "https://www.example.com/images/bootcut-jeans-women.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/ha6/h02/30563173859358/MCSS22DEN123871_NAVY_BLUE.jpg_230Wx334H",
         "description": "A classic pair of bootcut jeans for a timeless silhouette.",
         "stock": 85,
         "rating": 4.9
@@ -1194,7 +1194,7 @@
         "price": 49.99,
         "size": ["S", "M", "L"],
         "color": ["Cream", "Grey", "Burgundy"],
-        "imageURL": "https://www.example.com/images/cable-knit-sweater.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/h84/h69/29259085709342/AW22FABSWT00188_BLUE.jpg_136Wx204H",
         "description": "A cozy cable knit sweater perfect for chilly days.",
         "stock": 45,
         "rating": 4.5
@@ -1206,7 +1206,7 @@
         "price": 34.99,
         "size": ["S", "M", "L"],
         "color": ["Black", "Navy", "Red"],
-        "imageURL": "https://www.example.com/images/a-line-mini-skirt.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/hce/hc3/29825757085726/N23FWSKT845MR_MAROON.jpg_230Wx334H",
         "description": "A stylish A-line mini skirt suitable for various occasions.",
         "stock": 70,
         "rating": 4.4
@@ -1218,7 +1218,7 @@
         "price": 39.99,
         "size": ["S", "M", "L"],
         "color": ["White", "Black", "Blue"],
-        "imageURL": "https://www.example.com/images/lace-trim-blouse.jpg",
+        "imageURL": "https://sslimages.shoppersstop.com/sys-master/images/hc1/h77/15524431921182/9209ONNIVORY_IVORY.jpg_230Wx334H",
         "description": "A delicate lace trim blouse perfect for adding a feminine touch to your ensemble.",
         "stock": 60,
         "rating": 4.6
